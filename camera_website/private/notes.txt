@@ -1,0 +1,24 @@
+########################################################
+#		RASPITILL TO  PRIVATE WEBSITE  	       #
+########################################################
+
+- Install Jessie Lite to SD card from OSX. (dd)
+- Change Password & User in Jessie Lite
+_ Setup Wifi if needed (/etc/wpa_supplicant/wpa_supplicant.conf)
+- Raspi-config : Turn on Camera and SSH
+- Test Camera (raspistill -o test.jpg)
+- Install Apachee 2
+- Create a bash program for the Camera in (/bin)
+- Create html/php js page to display the picture and reload the new one.
+- Cronjob - e
+
+
+Optional :
+- Install Fail2ban 
+- Install NFS
+- Router Port Forwarding
+
+
+
+
+
